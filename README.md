@@ -19,3 +19,8 @@ This is repository to detect when the bike is breaking based on the acceleromete
   <img src="./images/pcb1.png" width="350" />
   <img src="./images/pcb2.png" width="350" /> 
 </p>
+
+
+## License
+
+Copyright © 2022, [Andrzej Strzala](https://www.linkedin.com/in/andrzejstrzala/).
